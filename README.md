@@ -1,5 +1,13 @@
 # RedRocket Test Task
 
+![1](https://github.com/user-attachments/assets/6fed5f59-b758-4a2d-9197-a214e35b762e)
+
+![2](https://github.com/user-attachments/assets/36bff484-57b3-45d6-947a-fede0846cadc)
+
+
+https://github.com/user-attachments/assets/9a12d761-f618-476d-a39d-5c6e45475fa9
+
+
 A Flutter mini app with two screens: **Login** and **Home**, built using Clean Architecture.
 
 ## Features
