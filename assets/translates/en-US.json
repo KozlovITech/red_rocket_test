@@ -1,0 +1,27 @@
+{
+  "app_name": "Red Rocket",
+
+  "home_title": "Welcome, {username}",
+  "home_subtitle": "You are logged in. Manage your session below.",
+  "home_logout": "Logout",
+
+  "auth_title": "Sign in",
+  "auth_subtitle": "Use your email and password",
+  "auth_email": "Email",
+  "auth_password": "Password",
+  "auth_login": "Login",
+  "error_email_required": "Email is required",
+  "error_email_invalid": "Invalid email",
+  "error_email_latin": "Latin only",
+  "error_pass_required": "Password is required",
+  "error_pass_short": "Password too short (min 6)",
+  "error_pass_latin": "Latin letters/digits only",
+
+  "error": {
+    "connection_title": "No internet connection",
+    "connection_subtitle": "Please check your network and try again.",
+    "common_title": "Something went wrong",
+    "common_subtitle": "Please try again or go back to the start screen.",
+    "button": "OK"
+  }
+}
